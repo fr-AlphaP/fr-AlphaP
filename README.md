@@ -1,6 +1,6 @@
 
 <img src="banner.jpg" alt="Github Banner" width="100%"/>
-<h2 align="center">Hi 👋! Welcome to AlphaProxi's GitHub</h2>
+<h2 align="center">Hi 👋! Welcome to AlphaP's GitHub</h2>
 
 ###
 
